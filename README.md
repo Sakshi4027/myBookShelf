@@ -1,7 +1,8 @@
-BookShelf is a demo Spring Boot application that provides a RESTful API for managing a book collection.
+BookShelf is a simple Spring Boot application that provides a RESTful API for managing a book collection.
 It supports basic CRUD operations such as adding, updating, retrieving, and deleting book entries.
 
 Features :
+
   1)Add a new book entry
   
   2)View all book entries
